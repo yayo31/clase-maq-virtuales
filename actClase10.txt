@@ -1,0 +1,25 @@
+Sanchez Lopez Eduardo Ivan
+
+Por que un lenguaje de programacion solo puede utilizarse en algunos sistemas operativos y en otros no?
+Respuesta: Por que hay lenguajes de programacion enfocados solamente al desarollo de un entorno en un solo
+lenguaje de programacion, llamese swift por ejemplo, ya que puede resultar mas conveniente una busqueda
+de una mejor optimizacion en este, en vez del gasto de recursos pasando a otros sistemas operativos.
+Otros lenguajes como ensamblador, solo estan preparados para algunos sistemas operativos, al ser de bajo nivel
+este se enofonca mas en la parte de la comunicacion mas directa con el hardware y con el lenguaje maquina, es
+por ello que este tipo de leguajes al no ser de alto nivel, no buscan ampliarse en ese aspecto.
+
+Que tipo de maquina virtual soporta virtual box?
+R: virtual box al ser un open source es capaz de manejar distintos tipos de maquinas virtuales, ya que 
+continuamente esta creciendo y ampliando sus caracteristicas, pudiendose correr multiples sistemas operativos
+en sus maquinas virtuales.
+
+Que funcion cumple el hypervisor en la virtualizacion?
+R: El hypervisor, tambien conocido como monitor es un software que crea y corre maquinas virtuales. Permite 
+que una computadora anfitriona sea capaz de compartir recursos en forma de memoria y procesos con una o 
+varias maquinas virtuales. Siempre y cuando la capacidad de estas ultimas no exceda la propia capacidad
+de la computadora principal.
+
+Si tengo mas de una maquina virtual, y esta se rompe, esto afecta a las demas? por que?
+R: No, ya que cada maquina virtual esta alojada en un espacio unico de la computadora principal, y sus 
+procesos estan aislados de los demas, por lo que si llega a haber un problema, esta maquina virtual no 
+afectara su entorno.
